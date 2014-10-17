@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ntk:home|Door43 (ntk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ntk|d43-ntk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ntk/archive/master.zip|d43-ntk.zip]]
+
+**Recent Changes**
+{{changes>ns = ntk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ntk|Ethnologue data]]
+
